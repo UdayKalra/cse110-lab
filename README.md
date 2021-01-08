@@ -1,6 +1,6 @@
 # Welcome to my Markdown Portfolio
 
-My name is [Uday Kalra](https://www.linkedin.com/in/udaykalra), and I study Computer Science at University of California, San Diego.
+My name is [Uday Kalra](https://www.linkedin.com/in/udaykalra), and I study Computer Science at University of California, San Diego. Click [here](#life-goals) for my Life Goals.
 
 As the great George Clinton once professed
 >Everybody's got a little light under the sun.
