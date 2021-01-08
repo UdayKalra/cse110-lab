@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Lab One
 
-You can use the [editor on GitHub](https://github.com/UdayKalra/cse110-lab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is [Uday Kalra](https://www.linkedin.com/in/udaykalra), and I study Computer Science at University of California, San Diego.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](uday.jpeg)
 
 ### Markdown
 
